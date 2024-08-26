@@ -51,3 +51,18 @@ Si se hace al revés, se perderán las referencias de los sub-módulos en el rep
 ```
 docker compose -f docker-compose.prod.yml build
 ```
+
+
+
+
+
+# Herramientas utilizadas:
+
+- Neon Tech (Montar Postgress en la nube) (https://console.neon.tech/app/projects/patient-hall-89821171/quickstart)
+- Cloud MongoDB (Montar BD Mongo) (https://cloud.mongodb.com/v2/66c4b5ceccb08f5dcdc34ab5#/metrics/replicaSet/66c4b6f609665f0a3a25c0dd/explorer/AuthDB/User/find)
+- Hook Deck (para creak webhook) (https://dashboard.hookdeck.com/get-started)
+- Stripe (Para medios de pagos) (https://dashboard.stripe.com/test/webhooks)
+
+
+- Github del profe (https://github.com/Nest-Microservices-DevTalles)
+- Mi Github (https://github.com/Curse-Nest-Microservices/)
